@@ -1,0 +1,53 @@
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.exe
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.pdb
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.TravelExpense.resources
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.Properties.Resources.resources
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.csproj.GenerateResource.Cache
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+C:\Documents and Settings\k8mete01\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.TravelExpense.resources
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.Properties.Resources.resources
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.csproj.GenerateResource.Cache
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.exe
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.pdb
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.exe
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.pdb
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\ResolveAssemblyReference.cache
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.TravelExpense.resources
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.Properties.Resources.resources
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.csproj.GenerateResource.Cache
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.exe
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.pdb
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\obj\Debug\ResolveAssemblyReference.cache
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.TravelExpense.resources
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.Properties.Resources.resources
+K:\dotNET Programming\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.csproj.GenerateResource.Cache
+E:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+E:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+I:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+I:\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.dll
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.pdb
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.xml
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.dll
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.pdb
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.xml
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.exe
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.pdb
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.exe
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\bin\Debug\TravelExpense.pdb
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.dll
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.pdb
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\bin\Debug\Mengesha.Allowance2010.xml
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.TravelExpense.resources
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.Properties.Resources.resources
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\TravelExpense\obj\Debug\TravelExpense.csproj.GenerateResource.Cache

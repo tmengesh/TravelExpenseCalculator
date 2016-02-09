@@ -1,0 +1,8 @@
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Release\TravelExpense.exe
+F:\Travel Expense\TravelExpense\TravelExpense\bin\Release\TravelExpense.pdb
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Release\ResolveAssemblyReference.cache
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Release\TravelExpense.TravelExpense.resources
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Release\TravelExpense.Properties.Resources.resources
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Release\TravelExpense.csproj.GenerateResource.Cache
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Release\TravelExpense.exe
+F:\Travel Expense\TravelExpense\TravelExpense\obj\Release\TravelExpense.pdb

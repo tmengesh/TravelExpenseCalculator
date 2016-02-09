@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mengesha.Allowance2010</name>
+    </assembly>
+    <members>
+        <member name="T:Mengesha.Allowance2010.Allowance">
+            <summary>
+            Allowance Class
+            </summary>
+        </member>
+        <member name="F:Mengesha.Allowance2010.Allowance.FinFull">
+            <summary>
+            Finland's Fullday Allowacne
+            </summary>
+        </member>
+        <member name="F:Mengesha.Allowance2010.Allowance.FinHalf">
+            <summary>
+            Finland's Halfday Allowance
+            </summary>
+        </member>
+        <member name="F:Mengesha.Allowance2010.Allowance.FinKm">
+            <summary>
+            Finland's KM Allowance
+            </summary>
+        </member>
+        <member name="F:Mengesha.Allowance2010.Allowance.FinPerson">
+            <summary>
+            Number of Person
+            </summary>
+        </member>
+        <member name="T:Mengesha.Allowance2010.Allowance.County">
+            <summary>
+            Struct File to list contries and their corrosponding rates
+            </summary>
+        </member>
+        <member name="P:Mengesha.Allowance2010.Allowance.County.DailyAllowance">
+            <summary>
+            Set and Get Daily Allowance
+            </summary>
+        </member>
+        <member name="P:Mengesha.Allowance2010.Allowance.County.Name">
+            <summary>
+            Set and Get Country Name
+            </summary>
+        </member>
+        <member name="P:Mengesha.Allowance2010.Allowance.StartDateAndTime">
+            <summary>
+            Work Trip Start time with method set and get time
+            </summary>
+        </member>
+        <member name="P:Mengesha.Allowance2010.Allowance.ReturnDateAndTime">
+            <summary>
+            Work Trip Return time with method set and get time
+            </summary>
+        </member>
+        <member name="M:Mengesha.Allowance2010.Allowance.CalculateDays(System.DateTime,System.DateTime,System.String,System.String)">
+            <summary>
+            Calculates days and hours difference between start and return day
+            </summary>
+            <param name="startDate"></param>
+            <param name="returnDate"></param>
+            <param name="startTime"></param>
+            <param name="returnTime"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mengesha.Allowance2010.Allowance.KmAllowance(System.Int32,System.Double,System.Int32,System.Double)">
+            <summary>
+            Calculates KM Allowance
+            </summary>
+            <param name="kmDriven"></param>
+            <param name="kmAllowancePerKm"></param>
+            <param name="numberOfPersons"></param>
+            <param name="kmAllowancePerPerson"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mengesha.Allowance2010.Allowance.CalculateDailyAllowance(System.Double,System.Double)">
+            <summary>
+            Calcuate Daily Allowance for Domestic Trip
+            </summary>
+            <param name="fullDay"></param>
+            <param name="halfDay"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mengesha.Allowance2010.Allowance.CalculateAllowanceAbroad(System.Double)">
+            <summary>
+            Calculates Abroad Allowance
+            </summary>
+            <param name="abroadAllowance"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mengesha.Allowance2010.Allowance.ReadCountiesAndDailyAllowances(System.String)">
+            <summary>
+            Read Countries and their corrosponding Daily Allowance
+            </summary>
+            <param name="fileName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

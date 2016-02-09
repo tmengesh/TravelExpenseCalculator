@@ -1,0 +1,17 @@
+F:\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.dll
+F:\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.pdb
+F:\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\ResolveAssemblyReference.cache
+F:\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.dll
+F:\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.pdb
+F:\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.XML
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.dll
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.pdb
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.dll
+C:\Users\Tewodros\Desktop\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.pdb
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.XML
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.dll
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\Mengesha.Allowance2010\bin\Debug\Mengesha.Allowance2010.pdb
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.dll
+C:\Users\Tewodros\Desktop\CV\Projects\SimpleBudgetCalculator with .net\Travel Expense\TravelExpense\Mengesha.Allowance2010\obj\Debug\Mengesha.Allowance2010.pdb

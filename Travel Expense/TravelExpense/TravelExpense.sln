@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpense", "TravelExpense\TravelExpense.csproj", "{7A594EB8-1E07-4F6B-BC3E-326951E02CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mengesha.Allowance2010", "Mengesha.Allowance2010\Mengesha.Allowance2010.csproj", "{AF8E5A86-E15A-49FF-A06C-266B43A1F7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A594EB8-1E07-4F6B-BC3E-326951E02CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A594EB8-1E07-4F6B-BC3E-326951E02CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A594EB8-1E07-4F6B-BC3E-326951E02CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A594EB8-1E07-4F6B-BC3E-326951E02CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8E5A86-E15A-49FF-A06C-266B43A1F7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8E5A86-E15A-49FF-A06C-266B43A1F7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8E5A86-E15A-49FF-A06C-266B43A1F7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8E5A86-E15A-49FF-A06C-266B43A1F7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

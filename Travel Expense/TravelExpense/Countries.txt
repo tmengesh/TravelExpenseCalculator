@@ -1,0 +1,34 @@
+FinlandFull ;30
+FinlandHalf ;14
+FinlandKm ;40
+FinlandPerson ;2
+Austria ;62
+Belgium ;63
+Canada ;54
+Chech ;53
+China ;60
+Denmark ;65
+Estonia ;49
+France ;63
+Germany ;59
+Great Britain ;70
+Greece ;61
+Hungary ;58
+Ireland ;63
+Island ;72
+Italy ;61
+Japan ;85
+Kenya ;43
+Latvia ;45
+Lithuania ;45
+Norway ;64
+Netherlands ;63
+Poland ;55
+Portugal ;57
+Romania ;50
+Russia ;42
+Slovakia ;45
+Spain ;60
+Sweden ;62
+Switzerland ;62
+United States ;60
